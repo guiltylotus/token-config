@@ -1,0 +1,24 @@
+{
+  "1":{
+    "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202":{
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x6b175474e89094c44da98b954eedeac495271d0f":{
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    }
+  },
+  "56":{
+    "0xdac17f958d2ee523a2206206994597c13d831ec7":{
+      "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    }
+  }
+}
